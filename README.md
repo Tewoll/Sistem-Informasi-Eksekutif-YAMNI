@@ -1,1 +1,2 @@
 # Sistem-Informasi-Eksekutif-YAMNI
+Sistem Informasi Eksekutif YAMNI adalah jenis sistem informasi manajemen yang dirancang untuk membantu eksekutif dan manajer puncak Yayasan Madrasah Nairil Islamiyah (YAMNI) dalam pengambilan keputusan strategis. EIS menyajikan informasi bisnis yang relevan dan mudah dipahami dalam bentuk ringkasan, laporan, dan visualisasi data, membantu para eksekutif memantau kinerja, mengidentifikasi tren, dan merespons perubahan dengan cepat.
